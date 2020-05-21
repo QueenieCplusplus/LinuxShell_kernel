@@ -17,6 +17,12 @@
 
         ✗ uname -p
         i386
+        
+        ✗ uname -a
+        Darwin Pintde-MacBook-Pro.local 19.4.0 
+        Darwin Kernel Version 19.4.0: 
+        Wed Mar  4 22:28:40 PST 2020; 
+        root:xnu-6153.101.6~15/RELEASE_X86_64 x86_64
 
 * hostname
 
