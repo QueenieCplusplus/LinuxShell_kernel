@@ -17,3 +17,8 @@
 
         ✗ uname -p
         i386
+
+* hostname
+
+        ✗ hostname
+        Pintde-MacBook-Pro.local
