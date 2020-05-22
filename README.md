@@ -31,17 +31,17 @@
         
         usage: hostname [-fs] [name-of-host]
         
-        -a
-        -d
-        -f
-        -F [filename]
-        -h
-        -i
-        -n
-        -s
-        -v
-        -V
-        -y
+        -a, alias
+        -d, domain name (not host name)
+        -f, full hostname + domain name
+        -F [filename], 將主機名稱設定為檔案中的指定名稱
+        -h, help
+        -i, ip addr of host
+        -n, 查詢 DECnet 網路節點名稱。
+        -s, suffix
+        -v, 顯示指令執行過程。
+        -V, version
+        -y, 查詢 NIS 網域名稱。
         
 * host
 
