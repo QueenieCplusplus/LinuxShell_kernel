@@ -29,6 +29,20 @@
         ✗ hostname
         Pintde-MacBook-Pro.local
         
+        usage: hostname [-fs] [name-of-host]
+        
+        -a
+        -d
+        -f
+        -F [filename]
+        -h
+        -i
+        -n
+        -s
+        -v
+        -V
+        -y
+        
 * host
 
          ✗ host
